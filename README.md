@@ -9,6 +9,8 @@ checklist to read: a checklist that executes.
 **Confidence: High (>=85%)** for LP001-LP003 (deterministic patterns);
 **Medium (60-79%)** for LP004-LP006 heuristics (false positives possible).
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 The behavioral-patch phenomenon — a pure text file of "LLM coding pitfalls"
